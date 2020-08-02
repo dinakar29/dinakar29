@@ -2,7 +2,8 @@
 
 I'm Dinakar. I write code and am usually on the lookout for the next best restaurant.
 
-![Computers are dumb](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+
 
 #### Current stats
 
